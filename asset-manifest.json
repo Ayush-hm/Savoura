@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Savoura/static/css/main.48d8509f.css",
+    "main.js": "/Savoura/static/js/main.f9f6dd43.js",
+    "static/media/gallery07.png": "/Savoura/static/media/gallery07.16d467b5eeff9001326d.png",
+    "static/media/Icecream.png": "/Savoura/static/media/Icecream.89578eab7fd59ce92759.png",
+    "static/media/meal.mp4": "/Savoura/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/table.png": "/Savoura/static/media/table.d125b961df6c50866e36.png",
+    "static/media/gallery05.png": "/Savoura/static/media/gallery05.38c15e975d08517c8ea4.png",
+    "static/media/gallery06.png": "/Savoura/static/media/gallery06.b4dc0b78c4477f9b29a1.png",
+    "static/media/bg.png": "/Savoura/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/Savoura/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/Savoura/static/media/findus.585c393ccd3671513743.png",
+    "static/media/menu.png": "/Savoura/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/Savoura/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Savoura/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Savoura/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/chef.png": "/Savoura/static/media/chef.35f479c5ddb99073722b.png",
+    "static/media/knife.png": "/Savoura/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Savoura/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/Mojito.png": "/Savoura/static/media/Mojito.cf84c4e208167f34cd06.png",
+    "static/media/sign.png": "/Savoura/static/media/sign.ca4d01da0aceaca1f864.png",
+    "static/media/S.png": "/Savoura/static/media/S.66b901738b873a81036d.png",
+    "static/media/logo.png": "/Savoura/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Savoura/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Savoura/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Savoura/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Savoura/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/Savoura/index.html",
+    "static/media/spoon.svg": "/Savoura/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.48d8509f.css.map": "/Savoura/static/css/main.48d8509f.css.map",
+    "main.f9f6dd43.js.map": "/Savoura/static/js/main.f9f6dd43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d8509f.css",
+    "static/js/main.f9f6dd43.js"
+  ]
+}
